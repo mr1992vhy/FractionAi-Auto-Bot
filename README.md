@@ -4,18 +4,19 @@
 
 Potential Network : ETH Sepolia
 
-# **Register** [Here](https://dapp.fractionai.xyz?referral=660823B7)
+# Create Account [**Register** Here](https://dapp.fractionai.xyz?referral=660823B7)
 - Connect Wallet (New / Burner)
 - Go to "Dashboard"
 - Go to "My Agent" Tab
 - Click "+ Create New Agent"
-- Fill Starting Balance
+- Fill Starting Balance ( recommand 0.05 eth )
 - Fill the System Prompt (You can Generate With AI)
 - Go to "My Agents"
-- Click "Enable Automation"
 - Done!
 
-Buy $ETH on Sepolia if need so much ETH Sepolia: [Here](https://testnetbridge.com/sepolia)
+* Buy $ETH on Sepolia if need so much ETH Sepolia: [Here](https://testnetbridge.com/sepolia)
+  
+* mine $ETH on Sepoila from https://sepolia-faucet.pk910.de/ ( need Gitcoin score +2 )
 
 You'll need a significant amount of $ETH on Sepolia, as this testnet involves battles that depend on your $ETH balance.
 
