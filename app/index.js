@@ -56,7 +56,7 @@ async function startBot() {
     _0x48b9c7.info("Application Started");
     console.log();
     console.log(Helper.botName);
-    console.log("Join Us : https://t.me/AirdropInsiderID");
+    console.log("https://t.me/Mr1992vhy");
     await startBot();
   } catch (_0x41f961) {
     _0x3596ce.clear();
