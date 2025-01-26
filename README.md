@@ -4,7 +4,7 @@
 
 Potential Network : ETH Sepolia
 
-**Register** [Here](https://dapp.fractionai.xyz?referral=1B46649B)
+# **Register** [Here](https://dapp.fractionai.xyz?referral=660823B7)
 - Connect Wallet (New / Burner)
 - Go to "Dashboard"
 - Go to "My Agent" Tab
@@ -52,7 +52,7 @@ You'll need a significant amount of $ETH on Sepolia, as this testnet involves ba
    ```
    nano config/config.js
    ```
-5. Configure your proxy
+5. Configure your proxy ( optional )
    ```
    nano config/proxy_list.js
    ```
@@ -65,6 +65,3 @@ You'll need a significant amount of $ETH on Sepolia, as this testnet involves ba
 
 DWYOR & Always use a new wallet when running the bot, I am not responsible for any loss of assets.
 
-## LICENSE
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
